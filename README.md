@@ -51,7 +51,3 @@ Use the following:
 
 
 
-he following:
-
-File	Password	Message
-sample_message1.wav	demo123	Hello from EchoCrypt
