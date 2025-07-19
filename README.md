@@ -22,7 +22,7 @@ Uses AES encryption and converts messages to audible waveforms.
   ```bash
   pip install -r requirements.txt
 
-📦 Project Structure
+## 📦 Project Structure
 audio_codec.py        # Audio encoding/decoding logic
 encryption.py         # AES encryption/decryption logic
 play_encrypted.py     # Turn message into encrypted .wav
@@ -33,7 +33,7 @@ encrypted_*.wav       # Example audio files
 README.md             # This guide
 
 
-🛡️ Notes
+## 🛡️ Notes
 Offers best-effort privacy via AES and checksum; not for military-grade security.
 
 Uses human-audible frequencies for simplicity and reliability.
