@@ -37,3 +37,21 @@ README.md             # This guide
 Offers best-effort privacy via AES and checksum; not for military-grade security.
 
 Uses human-audible frequencies for simplicity and reliability.
+
+## 🔊 Sample Encrypted Audio Files
+To test decryption without creating your own:
+
+python decrypt_from_wav.py
+
+Use the following:
+
+| File                 | Password | Message                                            |
+| -------------------- | -------- | ---------------------------------------------------|
+| Sample.wav           | hello    | Welcome!! This EchoCrypt , Let's test it out :)    |
+
+
+
+he following:
+
+File	Password	Message
+sample_message1.wav	demo123	Hello from EchoCrypt
